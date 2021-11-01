@@ -51,4 +51,6 @@ public class Bank : MonoBehaviour
             UIText.text = "Gold: " + currentBalance;
         }
     }
+
+    //Test with the Git
 }
